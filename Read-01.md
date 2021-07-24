@@ -5,7 +5,7 @@
 # HTML
 ![Html](https://brytdesigns.com/wp-content/uploads/2019/12/letters-html-1024x681.jpg)
 #### HTML is the standard markup language for Web pages.
-The HyperText Markup Language, or HTML is the standard markup language for documents designed to be displayed in a web browser. It can be assisted by technologies such as Cascading Style Sheets (CSS) and scripting languages such as JavaScript.
+**The HyperText Markup Language**, or *HTML* is the standard markup language for documents designed to be displayed in a web browser. It can be assisted by technologies such as Cascading Style Sheets (CSS) and scripting languages such as JavaScript.
 CSS is a style sheet language that’s focused almost entirely on improving the presentation of HTML elements. While CSS is a static programming language, it can be used to make your website appear visually pleasing and modern. If you want your website to have a sleek and stylish design, CSS is the programming language to use. With a basic understanding of CSS, you can make changes to the overall look and feel of your website, which is useful when you want to match the appearance of your website with the aesthetics of your brand.
 * Design and Build Websites
 * HTML Uses Elements to Describe the Structure of Pages.
@@ -41,7 +41,7 @@ characters:*
 ````
 * DOCTYPES tell browsers which version of HTML you
 are using.
-XX You can add comments to your code between the
+* You can add comments to your code between the
 <!-- and --> markers.
 
 *  The id and class attributes allow you to identify
@@ -92,13 +92,13 @@ the information you present.
 ![](https://s3.eu-west-2.amazonaws.com/uploads.3alampro.com/2019/October/UqGlnihBSz6tx8ua5tojPTwPvN3KsN6v6DfRNDa2.jpeg)
 
 screen with code
-CSS is a style sheet language that’s focused almost entirely on improving the presentation of HTML elements. While CSS is a static programming language, it can be used to make your website appear visually pleasing and modern. If you want your website to have a sleek and stylish design, CSS is the programming language to use. With a basic understanding of CSS, you can make changes to the overall look and feel of your website, which is useful when you want to match the appearance of your website with the aesthetics of your brand.
+CSS is a ***style sheet language*** that’s focused almost entirely on improving the *presentation of HTML elements*. While CSS is a static programming language, it can be used to make your website appear visually pleasing and modern. If you want your website to have a sleek and stylish design, CSS is the programming language to use. With a basic understanding of CSS, you can make changes to the overall look and feel of your website, which is useful when you want to match the appearance of your website with the aesthetics of your brand.
 #### What Can You Do With CSS?
 
 
 
 
-Even though CSS is primarily used to create static visual effects, the latest versions of the programming language offer some functionality for the creation of very simple animations.
+Even though **CSS** is primarily used to create*static visual effects*, the latest versions of the programming language offer some functionality for the creation of very simple animations.
 
 If you want to change the color of some of the text on a web page, basic CSS would allow you to do so by adding “style” code to the HTML code that’s already found on your page.
 Along with the presentation of HTML, CSS can also be used to alter the layout and formatting of your website.
@@ -112,8 +112,8 @@ Once you know the basics of CSS, you should be capable of improving the look of 
 
 ### What is JavaScript?
 
-coding screen with mug
-JavaScript is among the most important programming languages for website owners who want to make their site more interactive, which makes this the most complex of the three standard programming languages in this article. While HTML provides the structure for a website and CSS allows you to control the presentation of a site, the JavaScript programming language gives you the tools that you need to alter the behavior of different elements that are found on a website page. With this tool, you can add a layer of interactivity to the CSS and HTML elements on your website, which is highly recommended if you want your website to appeal to the modern customer.
+
+JavaScript is among ***the most important programming languages for website owners who want to make their site more interactive***, which makes this the most complex of the three standard programming languages in this article. While HTML provides the structure for a website and CSS allows you to control the presentation of a site, the JavaScript programming language gives you the tools that you need to alter the behavior of different elements that are found on a website page. With this tool, you can add a layer of interactivity to the CSS and HTML elements on your website, which is highly recommended if you want your website to appeal to the modern customer.
 
 Most modern websites come with a menu button that can be clicked to display a selection of areas on the website that you can navigate to. The menu button usually reveals a small menu on the side of the page, which adds interactivity to the page itself. All of this is powered by JavaScript and can make your website appear to be more modern and sophisticated.
 
