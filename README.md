@@ -14,7 +14,7 @@ Read-08.md |[Read-08.md](https://mahmoud-m-hamdan.github.io/Code-201-Reading-Not
 Read-09.md |[Read-09.md](https://mahmoud-m-hamdan.github.io/Code-201-Reading-Notes/Read-09)
 Read-10.md |[Read-10.md](https://mahmoud-m-hamdan.github.io/Code-201-Reading-Notes/Read-10)
 Read-11.md |[Read-11.md](https://mahmoud-m-hamdan.github.io/Code-201-Reading-Notes/Read-11)
-Read-12.md |[Read-12.md]()
+Read-12.md |[Read-12.md](https://mahmoud-m-hamdan.github.io/Code-201-Reading-Notes/Read-12)
 Read-13.md |[Read-13.md]()
 Read-14.md |[Read-14.md]()
 Read-15.md |[Read-15.md]()
