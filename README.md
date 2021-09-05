@@ -25,7 +25,6 @@ Read-15.md |[Read-15.md]()
 
 The Name | The Link
 ------------ | -------------
-README.md | [README.md]
 Read-01.md |[Read-01.md]()
 
 
