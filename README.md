@@ -22,22 +22,10 @@ Read-14.md |[Read-14.md](https://mahmoud-m-hamdan.github.io/Code-201-Reading-Not
 
 
 
-# Code-301-Reading-Notes
-
-The Name | The Link
------------- | -------------
-Read-01.md |[Read-01.md]()
-
-
-
-
-
-
-
-
 ## Code 301 - Intermediate Software Development
 
 
 ## Code 401 - Advanced Software Development
+
 
 
